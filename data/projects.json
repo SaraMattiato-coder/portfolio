@@ -1,19 +1,24 @@
 [
-    {
-      "title": "Project 1",
-      "description": "Descrizione di esempio per il progetto 1",
-      "technologies": ["Vue", "Node.js"],
-      "link": "https://github.com/example/project1",
-      "image": null,
-      "video": null
-    },
-    {
-      "title": "Project 2",
-      "description": "Descrizione di esempio per il progetto 2",
-      "technologies": ["React", "Express"],
-      "link": "https://github.com/example/project2",
-      "image": null,
-      "video": null
-    }
-  ]
-  
+  {
+    "title": "Project 1",
+    "description": "Descrizione di esempio per il progetto 1",
+    "technologies": [
+      "Vue",
+      "Node.js"
+    ],
+    "link": "https://github.com/example/project1",
+    "image": null,
+    "video": null
+  },
+  {
+    "title": "Project 2",
+    "description": "Descrizione di esempio per il progetto 2",
+    "technologies": [
+      "React",
+      "Express"
+    ],
+    "link": "https://github.com/example/project2",
+    "image": null,
+    "video": null
+  }
+]
