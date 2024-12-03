@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>Portfolio</h1>
+    <h1>Portfolio (work in progress)</h1>
     <Projects />
   </div>
 </template>
