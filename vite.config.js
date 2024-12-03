@@ -5,5 +5,5 @@ import { quasar } from "@quasar/vite-plugin";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [vue(), quasar()],
-  // base: "/portfolio/",
+  base: process.env.NODE_ENV === "production" ? "/portfolio/" : "/",
 });
